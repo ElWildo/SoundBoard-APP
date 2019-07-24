@@ -12,6 +12,7 @@ The app is a simple template to create any soundboard app through React Native w
     1. Create an object in the array for each sound. "name" is the text will be displayed on the app, "link" will be the link to the file.
         the link variable needs to be in this format: 
         >require("_sound_relative_path_")
+        
     1.Save the file
 1. Test the app throgh the Expo-cli (optional)
 1. Build the app through the Expo-cli (optional)
